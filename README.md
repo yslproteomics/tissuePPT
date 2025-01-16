@@ -5,7 +5,7 @@ Tissue Proteome and Phosphoproteome Turnover Web Application
 **<font size='5'> Tissue-PPT </font>** is a comprehensive resource that maps protein abundance (PA) and protein lifetime (PT) across eight mouse tissues and nine brain regions, providing in-depth insights into tissue-specific proteostasis. Using advanced proteomic techniques of data-independent acquisition (DIA) and tandem mass tagging (TMTpro), Tissue-PPT analyzed 11,000 proteins and 40,000 phosphosites with their PA and PT profiles, offering unmatched coverage and precision. Tissue-PPT uncovers e.g., tissue-specific short- and long-lived proteins, the role of phosphorylation in regulating protein stability, and how protein-protein interactions and organellar localization influence proteostasis and protein lifetime. By integrating multi-omics datasets, Tissue-PPT provides a detailed atlas of protein dynamics and tissue-specific regulation, offering new therapeutic insights. Accessible through an interactive web portal, Tissue-PPT serves as a valuable tool for studying proteome and phosphoproteome turnover in health and disease. This software (online version) is available here: [https://yslproteomics.shinyapps.io/tissuePPT](https://yslproteomics.shinyapps.io/tissuePPT). **Please note**: If the data are too large, we recommend users to intall this tool locally. Local installation can be found below.
 
 ## Graphical Abstract
-<img src="tissuePPTsy.png" align="center" height="770" width="792"/>
+<img src="tissuePPTsy.png" align="center" height="600" width="617"/>
 
 ## How to use
 A detailed introduction of this software can be found in the [User Manual](https://github.com/yslproteomics/tissuePPT/blob/main/tissuePPT.UserManual.pdf).
