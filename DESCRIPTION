@@ -1,0 +1,30 @@
+Package: tissuePPT
+Type: Package
+Title: Tissue-PPT: Tissue Proteome and Phosphoproteome Turnover Web Application
+Version: 0.1.0
+Author: Shisheng Wang
+Maintainer: Shisheng Wang <wssdandan2009@outlook.com>
+Description: Tissue-PPT is a comprehensive resource that maps protein abundance (PA) and protein lifetime (PT) across eight mouse tissues and nine brain regions, providing in-depth insights into tissue-specific proteostasis. Using advanced proteomic techniques of data-independent acquisition (DIA) and tandem mass tagging (TMTpro), Tissue-PPT analyzed 11,000 proteins and 40,000 phosphosites with their PA and PT profiles, offering unmatched coverage and precision. Tissue-PPT uncovers e.g., tissue-specific short- and long-lived proteins, the role of phosphorylation in regulating protein stability, and how protein-protein interactions and organellar localization influence proteostasis and protein lifetime. By integrating multi-omics datasets, Tissue-PPT provides a detailed atlas of protein dynamics and tissue-specific regulation, offering new therapeutic insights. Accessible through an interactive web portal, Tissue-PPT serves as a valuable tool for studying proteome and phosphoproteome turnover in health and disease.
+Imports:
+  pacman,
+  shiny,
+  shinyjs,
+  shinyWidgets,
+  shinyBS,
+  DT,
+  data.table,
+  ggsci,
+  ggplot2,
+  ggrepel,
+  patchwork,
+  dplyr,
+  openxlsx,
+  cowplot,
+  grid,
+  ggpubr,
+  impute,
+  pheatmap,
+  ggplotify
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
