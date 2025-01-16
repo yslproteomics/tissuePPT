@@ -30,7 +30,7 @@ tissuePPT_app()
 
 **Please note**, as there are many datasets, this package is large. If you have some issues when you install it using the code above, _please try download it into your own computer and install locally_. And please also feel free to write an issue or e-mail to me if you have any problem about this software.
 
-Then tissuePPT will be started as below:
+Then tissuePPT will be started as below:  
 <img src="homepage.png" align="center" height="800" width="571"/>
 <br>
 
