@@ -5,7 +5,7 @@ Tissue Proteome and Phosphoproteome Turnover Web Application
 **<font size='5'> Tissue-PPT </font>** is a comprehensive resource that maps protein abundance (PA) and protein lifetime (PT) across eight mouse tissues and nine brain regions, providing in-depth insights into tissue-specific proteostasis. Using advanced proteomic techniques of data-independent acquisition (DIA) and tandem mass tagging (TMTpro), Tissue-PPT analyzed 11,000 proteins and 40,000 phosphosites with their PA and PT profiles, offering unmatched coverage and precision. Tissue-PPT uncovers e.g., tissue-specific short- and long-lived proteins, the role of phosphorylation in regulating protein stability, and how protein-protein interactions and organellar localization influence proteostasis and protein lifetime. By integrating multi-omics datasets, Tissue-PPT provides a detailed atlas of protein dynamics and tissue-specific regulation, offering new therapeutic insights. Accessible through an interactive web portal, Tissue-PPT serves as a valuable tool for studying proteome and phosphoproteome turnover in health and disease. This software (online version) is available here: [https://yslproteomics.shinyapps.io/tissuePPT](https://yslproteomics.shinyapps.io/tissuePPT). **Please note**: If the data are too large, we recommend users to intall this tool locally. Local installation can be found below.
 
 ## Graphical Abstract
-<div style="text-align: center;">
+<div align=center>
   <img src="tissuePPTsy.png" height="600" width="617"/>
 </div>
 
@@ -33,7 +33,7 @@ tissuePPT_app()
 **Please note**, as there are many datasets, this package is large. If you have some issues when you install it using the code above, _please try download it into your own computer and install locally_. And please also feel free to write an issue or e-mail to me if you have any problem about this software.
 
 Then tissuePPT will be started as below:  
-<div style="text-align: center;">
+<div align=center>
   <img src="homepage.png" height="800" width="571"/>
 </div>
 <br>
